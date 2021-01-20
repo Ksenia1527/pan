@@ -1,0 +1,27 @@
+#zag {
+color:blue;
+}
+#textp{
+    font-size: 50px;
+}
+.heading{
+    color:gainsboro;
+    background-color: #000;
+}
+img{
+    border: 4px solid blue;
+}
+.yellow{
+    font-size: 100px;
+    color:yellow;
+    background-image: url('jop.jpg');
+    background-position: left 20px;
+}
+.list li{
+    weight: 70px;
+        height: 25px;
+        border: 1px solid #ccc;
+}
+h2, h1{
+    text-align: center;
+}
